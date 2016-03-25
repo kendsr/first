@@ -1,0 +1,5 @@
+node_modules
+obj
+.nt*.dat
+README.md
+first.njsproj
